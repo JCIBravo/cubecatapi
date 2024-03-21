@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vaixell",
+    "added_time": 1710186999435,
+    "added": "JCIBravo",
+    "creator": "",
+    "opening": "",
+    "wip": false,
+    "description": "Un simple vaixell",
+    "village": "ESARN",
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 22599,
+      "z": 20145
+    },
+    "images": [
+      "https://i.imgur.com/kgswwb3.png"
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+{
+  "AD": {
+    "name": "Andorra (País)",
+    "major": ["Bloguer"],
+    "logo": "https://i.imgur.com/klbuK2X.png"
+  },
+  "ADALV": {
+    "name": "Andorra la Vella",
+    "major": ["Bloguer"],
+    "logo": "https://i.imgur.com/l9ZCb57.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 13453,
+      "z": 9031
+    }
+  },
+  "ESARN": {
+    "name": "Arenys de Mar",
+    "major": ["Switsurfer"],
+    "logo": "https://i.imgur.com/XznJW34.png",
+    "public_transport": ["RENFE", "R1"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 22440,
+      "z": 19683
+    }
+  },
+  "ESNYS": {
+    "name": "Arenys de Munt",
+    "major": ["RakyCraft"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 22376,
+      "z": 20138
+    }
+  },
+  "ESZCM": {
+    "name": "Avia i Graugués",
+    "major": ["PatoPro289"]
+  },
+  "ESBCN": {
+    "name": "Barcelona",
+    "major": ["null"],
+    "logo": "https://i.imgur.com/IUwOcEK.png",
+    "public_transport": ["RENFE", "R1", "R4", "FGC", "S1"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 1,
+      "x": 19256,
+      "z": 22212
+    }
+  },
+  "ESBGA": {
+    "name": "Berga",
+    "logo": "https://i.imgur.com/CMobMdd.png"
+  },
+  "ESCBM": {
+    "name": "Cabrera de Mar",
+    "major": ["BonHome"],
+    "logo": "https://i.imgur.com/n7Czy7p.png"
+  },
+  "ESNET": {
+    "name": "Canet de Mar",
+    "major": ["LeBux"],
+    "public_transport": ["RENFE", "R1"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 22862,
+      "z": 19890
+    }
+  },
+  "ESCLL": {
+    "name": "Castellbisbal",
+    "major": ["jantogu18", "mikizz"],
+    "public_transport": ["RENFE", "R4"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 2,
+      "x": 15307,
+      "z": 22995
+    }
+  },
+  "ESCRV": {
+    "name": "Cervera",
+    "major": ["xiela_10"],
+    "logo": "https://i.imgur.com/ox4m2AC.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 10648,
+      "z": 18684
+    }
+  },
+  "ESCUB": {
+    "name": "Cubelles",
+    "major": ["TheEdu380"]
+  },
+  "ESPD3": {
+    "name": "El Port de la Selva",
+    "major": ["JacintVerdaguer"]
+  },
+  "ESEPB": {
+    "name": "El Prat de Llobregat",
+    "major": ["Winry3122"],
+    "logo": "https://i.imgur.com/kn9oiWn.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 18453,
+      "z": 23149
+    }
+  },
+  "FR": {
+    "name": "França (País)",
+    "logo": "https://i.imgur.com/R3NtwnK.png",
+    "major": ["Polar90"]
+  },
+  "ESGRO": {
+    "name": "Girona",
+    "logo": "https://i.imgur.com/12l4oGO.png"
+  },
+  "ESZFQ": {
+    "name": "Els Hostalets de Pierola",
+    "major": ["Aidemu"]
+  },
+  "ESIGL": {
+    "name": "Igualada",
+    "major": ["vicx"]
+  },
+  "ESLSL": {
+    "name": "La Seu d'Urgell",
+    "major": ["Andaxer60"],
+    "logo": "https://i.imgur.com/hTPOWKj.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 2,
+      "x": 16275,
+      "z": 13795
+    }
+  },
+  "ESHDL": {
+    "name": "L'Hospitalet de Llobregat",
+    "major": ["erick"],
+    "logo": "https://i.imgur.com/JRU1BSy.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 18583,
+      "z": 22654
+    }
+  },
+  "ESTOO": {
+    "name": "L'Estartit",
+    "major": ["VeridisQuo95"]
+  },
+  "FRNAR": {
+    "name": "Narbona",
+    "major": ["Polar90"],
+    "logo": "https://i.imgur.com/4AUwjs9.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 26489,
+      "z": 859
+    }
+  },
+  "ESOLI": {
+    "name": "Oliana",
+    "major": ["LechugaAsesina"]
+  },
+  "ESPFL": {
+    "name": "Palafrugell",
+    "major": ["Yandrax"],
+    "logo": "https://i.imgur.com/8IWRiTt.png"
+  },
+  "ESSD6": {
+    "name": "Palau-Saavedra",
+    "major": ["DobtMc"]
+  },
+  "ESPNL": {
+    "name": "Peníscola"
+  },
+  "ESZJP": {
+    "name": "Premià de Mar",
+    "major": ["Mikegs"],
+    "public_transport": ["RENFE", "R1"]
+  },
+  "ESZKQ": {
+    "name": "Roses",
+    "major": ["Sr_Auronplay"]
+  },
+  "ESSMJ": {
+    "name": "Santa Margarida i Els Monjos",
+    "logo": "https://i.imgur.com/r3XGWjF.png",
+    "major": ["_Arch3r_"]
+  },
+  "ESADQ": {
+    "name": "Sant Andreu de la Barca",
+    "major": ["Ayuso"]
+  },
+  "ESSBL": {
+    "name": "Sant Boi de Llobregat",
+    "major": ["Vialgue"]
+  },
+  "ESCLI": {
+    "name": "Sant Celoni",
+    "major": ["Ludgie"],
+    "logo": "https://i.imgur.com/qgf1MN5.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 22264,
+      "z": 18328
+    }
+  },
+  "ESSCS": {
+    "name": "Sant Cugat",
+    "public_transport": ["FGC", "S1"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 18330,
+      "z": 21515
+    }
+  },
+  "ESSIT": {
+    "name": "Sitges",
+    "logo": "https://i.imgur.com/X9UDOc6.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 16006,
+      "z": 24119
+    }
+  },
+  "ESTAR": {
+    "name": "Tarragona",
+    "public_transport": ["RENFE", "RT2"],
+    "major": ["Eddri"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 2,
+      "x": 10979,
+      "z": 25599
+    }
+  },
+  "ESTQE": {
+    "name": "Terrassa",
+    "major": ["iCruh"],
+    "logo": "https://i.imgur.com/QMn9QnN.png",
+    "public_transport": ["RENFE", "R4", "FGC", "S1"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 2,
+      "x": 17953,
+      "z": 20321
+    }
+  },
+  "ESVRR": {
+    "name": "Vallirana",
+    "major": ["exer123"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 17351,
+      "z": 22241
+    }
+  },
+  "ESDU7": {
+    "name": "Vandellós",
+    "major": ["BonHome"]
+  },
+  "ESVD8": {
+    "name": "Verdú",
+    "major": ["Mursell10"],
+    "logo": "https://i.imgur.com/E0crrBi.png"
+  },
+  "ESVFR": {
+    "name": "Vilafranca del Penedès",
+    "logo": "https://i.imgur.com/sgI5GkZ.png",
+    "major": ["_Arch3r_"],
+    "public_transport": ["RENFE", "R4"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 15315,
+      "z": 22942
+    }
+  },
+  "ESVLG": {
+    "name": "Vilanova i la Geltrú",
+    "major": ["Aleotcapitalist"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 15347,
+      "z": 24287
+    }
+  }
+}
