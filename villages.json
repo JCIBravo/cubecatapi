@@ -30,6 +30,7 @@
   "ESNYS": {
     "name": "Arenys de Munt",
     "major": ["RakyCraft"],
+    "logo": "https://i.imgur.com/ywNFRHw.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
