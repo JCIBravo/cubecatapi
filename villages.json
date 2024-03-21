@@ -206,7 +206,13 @@
   "ESSBL": {
     "name": "Sant Boi de Llobregat",
     "logo": "https://i.imgur.com/ymbiZWa.png",
-    "major": ["Vialgue"]
+    "major": ["Vialgue"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 18182,
+      "z": 22826
+    }
   },
   "ESCLI": {
     "name": "Sant Celoni",
