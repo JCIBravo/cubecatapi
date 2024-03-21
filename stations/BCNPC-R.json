@@ -1,0 +1,23 @@
+{
+    "other_operators": "FGC",
+    "name": "Barcelona - Pl. Catalunya",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 19205,
+        "y": 64,
+        "z": 22369
+    },
+    "type": "train",
+    "village": "barcelona",
+    "lines": [
+        "R1",
+        "R4",
+        "S1"
+    ],
+    "atm_fare": 1,
+    "opening": "22/12/2023",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 1
+}

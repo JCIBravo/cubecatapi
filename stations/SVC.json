@@ -1,0 +1,27 @@
+{
+    "images": [
+        "https://i.imgur.com/CQdjXmH.png",
+        "https://i.imgur.com/CJ7oBwK.png",
+        "https://i.imgur.com/s2E7W92.png",
+        "https://i.imgur.com/78R7j5C.png",
+        "https://i.imgur.com/Dl6xDMH.png",
+        "https://i.imgur.com/Fx6ytlt.png"
+    ],
+    "name": "Sant Vicenç de Calders",
+    "location": {
+        "world": "catalunya",
+        "zoom": 4,
+        "x": 13549,
+        "z": 24797
+    },
+    "type": "train",
+    "lines": [
+        "R4",
+        "RT2"
+    ],
+    "atm_fare": 6,
+    "opening": "22/12/2023",
+    "operator": "RENFE",
+    "tracks": 10,
+    "platforms": 4
+}

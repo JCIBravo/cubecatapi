@@ -1,0 +1,18 @@
+{
+    "name": "Canet de Mar",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 22821,
+        "y": 64,
+        "z": 19960
+    },
+    "type": "train",
+    "village": "canetdemar",
+    "lines": ["R1"],
+    "atm_fare": 2,
+    "opening": "24/02/2024",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 2
+}

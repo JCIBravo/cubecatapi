@@ -1,0 +1,21 @@
+{
+    "name": "L'Hospitalet de Llobregat",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 18621,
+        "y": 64,
+        "z": 22644
+    },
+    "type": "train",
+    "village": "lhospitaletdellobregat",
+    "lines": [
+        "R1",
+        "R4"
+    ],
+    "atm_fare": 1,
+    "opening": "22/12/2023",
+    "operator": "RENFE",
+    "tracks": 7,
+    "platforms": 4
+}

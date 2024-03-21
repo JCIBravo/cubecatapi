@@ -1,0 +1,20 @@
+{
+    "images": [
+        "https://i.imgur.com/YLesDqi.png",
+        "https://i.imgur.com/egfAwKY.png",
+        "https://i.imgur.com/o6JpdpC.png",
+        "https://i.imgur.com/YiYT6Cm.png",
+        "https://i.imgur.com/a1VyMSB.png",
+        "https://i.imgur.com/OcSYjtK.png",
+        "https://i.imgur.com/yj8wCTv.png"
+    ],
+    "name": "Provença",
+    "type": "train",
+    "village": "barcelona",
+    "lines": ["S1"],
+    "atm_fare": 1,
+    "opening": "Novembre 2023",
+    "operator": "FGC",
+    "tracks": 2,
+    "platforms": 2
+}

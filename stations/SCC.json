@@ -1,0 +1,17 @@
+{
+    "name": "Sant Cugat Centre",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 18325,
+        "z": 21525
+    },
+    "type": "train",
+    "village": "santcugat",
+    "lines": ["S1"],
+    "atm_fare": 1,
+    "opening": "Novembre 2023",
+    "operator": "FGC",
+    "tracks": 2,
+    "platforms": 2
+}

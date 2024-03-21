@@ -1,0 +1,16 @@
+{
+    "name": "Tarragona",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 11057,
+        "z": 25761
+    },
+    "type": "train",
+    "village": "tarragona",
+    "lines": ["RT2"],
+    "opening": "19/02/2024",
+    "operator": "RENFE",
+    "tracks": 10,
+    "platforms": 4
+}

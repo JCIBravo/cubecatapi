@@ -1,0 +1,34 @@
+{
+    "images": [
+        "https://i.imgur.com/SBAodzh.png",
+        "https://i.imgur.com/5qZzCfE.png",
+        "https://i.imgur.com/YmflKA8.png",
+        "https://i.imgur.com/mTXAXa5.png",
+        "https://i.imgur.com/FuP5GKw.png",
+        "https://i.imgur.com/gLi3jqV.png",
+        "https://i.imgur.com/FezDrBD.png",
+        "https://i.imgur.com/3GeK7Bb.png",
+        "https://i.imgur.com/3gG2x9q.png",
+        "https://i.imgur.com/ZXyjxOq.png",
+        "https://i.imgur.com/hdzd8q8.png"
+    ],
+    "other_operators": "RENFE",
+    "name": "Terrassa - Estació del Nord",
+    "location": {
+        "world": "catalunya",
+        "zoom": 7,
+        "x": 17994,
+        "z": 20129
+    },
+    "type": "train",
+    "village": "terrassa",
+    "lines": [
+        "S1",
+        "R4"
+    ],
+    "atm_fare": 3,
+    "opening": "Novembre 2023",
+    "operator": "FGC",
+    "tracks": 2,
+    "platforms": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Vallparadís Universitat",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 18083,
+        "z": 20336
+    },
+    "type": "train",
+    "village": "terrassa",
+    "lines": ["S1"],
+    "atm_fare": 1,
+    "opening": "Novembre 2022",
+    "operator": "FGC",
+    "tracks": 2,
+    "platforms": 1
+}

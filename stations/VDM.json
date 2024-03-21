@@ -1,0 +1,29 @@
+{
+    "images": [
+        "https://i.imgur.com/9uDGGIc.png",
+        "https://i.imgur.com/HwHCOgL.png",
+        "https://i.imgur.com/tFr6QM5.png",
+        "https://i.imgur.com/jL1rgMD.png",
+        "https://i.imgur.com/zuxs32q.png",
+        "https://i.imgur.com/nl1Bahr.png",
+        "https://i.imgur.com/4Q3kUEU.png",
+        "https://i.imgur.com/kl9TfQq.png",
+        "https://i.imgur.com/gnNU9eT.png"
+    ],
+    "name": "Vilassar de Mar",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 21141,
+        "y": 64,
+        "z": 21027
+    },
+    "type": "train",
+    "village": "vilassardemar",
+    "lines": ["R1"],
+    "atm_fare": 2,
+    "opening": "13/03/2024",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Terrassa - Rambla",
+    "location": {
+        "world": "catalunya",
+        "zoom": 7,
+        "x": 17848,
+        "z": 20342
+    },
+    "type": "train",
+    "village": "terrassa",
+    "lines": ["S1"],
+    "atm_fare": 1,
+    "opening": "Setembre 2022",
+    "operator": "FGC",
+    "tracks": 2,
+    "platforms": 1
+}

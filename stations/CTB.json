@@ -1,0 +1,24 @@
+{
+    "images": [
+        "https://i.imgur.com/uCNdTE9.png",
+        "https://i.imgur.com/NUSB8rk.png",
+        "https://i.imgur.com/dmJyA6e.png",
+        "https://i.imgur.com/IeFuSxc.png",
+        "https://i.imgur.com/1r8UHAC.png"
+    ],
+    "name": "Castellbisbal",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 17550,
+        "z": 21426
+    },
+    "type": "train",
+    "village": "castellbisbal",
+    "lines": ["R4"],
+    "atm_fare": 2,
+    "opening": "17/02/2024",
+    "operator": "RENFE",
+    "tracks": 3,
+    "platforms": 2
+}

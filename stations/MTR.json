@@ -1,0 +1,17 @@
+{
+    "name": "Martorell Central",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 17084,
+        "z": 21296
+    },
+    "type": "train",
+    "village": "martorell",
+    "lines": ["R4"],
+    "atm_fare": 3,
+    "opening": "22/12/2023",
+    "operator": "RENFE",
+    "tracks": 6,
+    "platforms": 3
+}

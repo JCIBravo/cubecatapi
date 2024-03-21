@@ -1,0 +1,475 @@
+{
+  "TRG": {
+    "type": "train",
+    "name": "Tarragona",
+    "opening": "19/02/2024",
+    "village": "tarragona",
+    "lines": ["RT2"],
+    "operator": "RENFE",
+    "platforms": 4,
+    "tracks": 10,
+    "location": {
+      "world": "catalunya",
+      "x": 11063,
+      "y": 64,
+      "z": 25761
+    }
+  },
+  
+  "SVC": {
+    "type": "train",
+    "name": "Sant Vicenç de Calders",
+    "opening": "22/12/2023",
+    "lines": ["R4", "RT2"],
+    "operator": "RENFE",
+    "platforms": 4,
+    "tracks": 10,
+    "atm_fare": 6,
+    "location": {
+      "world": "catalunya",
+      "x": 13562,
+      "y": 64,
+      "z": 24783
+    },
+    "images": [
+      "https://i.imgur.com/CQdjXmH.png",
+      "https://i.imgur.com/CJ7oBwK.png",
+      "https://i.imgur.com/s2E7W92.png",
+      "https://i.imgur.com/78R7j5C.png",
+      "https://i.imgur.com/Dl6xDMH.png",
+      "https://i.imgur.com/Fx6ytlt.png"
+    ]
+  },
+  
+  "VFP": {
+    "type": "train",
+    "name": "Vilafranca del Penedès",
+    "village": "vilafrancadelpenedes",
+    "opening": "22/12/2023",
+    "lines": ["R4"],
+    "operator": "RENFE",
+    "platforms": 3,
+    "tracks": 4,
+    "atm_fare": 4,
+    "location": {
+      "world": "catalunya",
+      "x": 15400,
+      "y": 64,
+      "z": 23008
+    }
+  },
+  
+  "MTR": {
+    "type": "train",
+    "name": "Martorell Central",
+    "village": "martorell",
+    "opening": "22/12/2023",
+    "lines": ["R4"],
+    "operator": "RENFE",
+    "platforms": 3,
+    "tracks": 6,
+    "atm_fare": 3,
+    "location": {
+      "world": "catalunya",
+      "x": 17079,
+      "y": 64,
+      "z": 21292
+    }
+  },
+  
+  "CTB": {
+    "type": "train",
+    "name": "Castellbisbal",
+    "village": "castellbisbal",
+    "opening": "17/02/2024",
+    "lines": ["R4"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 3,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 17550,
+      "y": 64,
+      "z": 21418
+    },
+    "images" : [
+      "https://i.imgur.com/uCNdTE9.png",
+      "https://i.imgur.com/NUSB8rk.png",
+      "https://i.imgur.com/dmJyA6e.png",
+      "https://i.imgur.com/IeFuSxc.png",
+      "https://i.imgur.com/1r8UHAC.png"
+    ]
+  },
+  
+  "MDR": {
+    "type": "train",
+    "name": "Molins de Rei",
+    "opening": "20/02/2024",
+    "lines": ["R4"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 18042,
+      "y": 64,
+      "z": 22187
+    },
+    "images" : [
+      "https://i.imgur.com/VEnKEv4.png",
+      "https://i.imgur.com/cXO6erf.png",
+      "https://i.imgur.com/ixIcgp1.png",
+      "https://i.imgur.com/CAfLlrA.png"
+    ]
+  },
+  
+  "LH": {
+    "type": "train",
+    "name": "L'Hospitalet de Llobregat",
+    "village": "lhospitaletdellobregat",
+    "opening": "22/12/2023",
+    "lines": ["R1", "R4"],
+    "operator": "RENFE",
+    "platforms": 4,
+    "tracks": 7,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 18615,
+      "y": 64,
+      "z": 22636
+    }
+  },
+  
+  "BCN": {
+    "type": "train",
+    "name": "Barcelona - Sants",
+    "village": "barcelona",
+    "opening": "22/12/2023",
+    "lines": ["R1", "R4"],
+    "operator": "RENFE",
+    "platforms": 4,
+    "tracks": 8,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 18892,
+      "y": 64,
+      "z": 22449
+    }
+  },
+  
+  "BCNPC-R": {
+    "type": "train",
+    "name": "Barcelona - Pl. Catalunya",
+    "village": "barcelona",
+    "other_operators": "FGC",
+    "opening": "22/12/2023",
+    "lines": ["R1", "R4", "S1"],
+    "operator": "RENFE",
+    "platforms": 1,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 19206,
+      "y": 64,
+      "z": 22369
+    }
+  },
+  
+  "BCNAT": {
+    "type": "train",
+    "name": "Barcelona - Arc de Triomf",
+    "village": "barcelona",
+    "opening": "09/03/2024",
+    "lines": ["R1", "R4"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 19433,
+      "y": 64,
+      "z": 22282
+    },
+    "images" : [
+      "https://i.imgur.com/a7QbhNp.png",
+      "https://i.imgur.com/NfmHTc3.png",
+      "https://i.imgur.com/zYtugec.png",
+      "https://i.imgur.com/vZrbu9l.png",
+      "https://i.imgur.com/zOu6xhA.png",
+      "https://i.imgur.com/rK2NM6A.png",
+      "https://i.imgur.com/Nw3SlVK.png",
+      "https://i.imgur.com/ZTQjCSd.png"
+    ]
+  },
+  
+  "TRS-R": {
+    "type": "train",
+    "name": "Terrassa - Estació del Nord",
+    "village": "terrassa",
+    "opening": "22/12/2023",
+    "lines": ["R4", "S1"],
+    "operator": "RENFE",
+    "other_operators": "FGC",
+    "platforms": 3,
+    "tracks": 5,
+    "atm_fare": 3,
+    "location": {
+      "world": "catalunya",
+      "x": 17969,
+      "y": 64,
+      "z": 20147
+    },
+    "images" : [
+      "https://i.imgur.com/SBAodzh.png",
+      "https://i.imgur.com/5qZzCfE.png",
+      "https://i.imgur.com/YmflKA8.png",
+      "https://i.imgur.com/mTXAXa5.png",
+      "https://i.imgur.com/FuP5GKw.png",
+      "https://i.imgur.com/gLi3jqV.png",
+      "https://i.imgur.com/FezDrBD.png",
+      "https://i.imgur.com/3GeK7Bb.png",
+      "https://i.imgur.com/3gG2x9q.png",
+      "https://i.imgur.com/ZXyjxOq.png",
+      "https://i.imgur.com/hdzd8q8.png"
+    ]
+  },
+  
+  "BCNEC": {
+    "type": "train",
+    "name": "Barcelona - El Clot",
+    "village": "barcelona",
+    "opening": "24/02/2024",
+    "lines": ["R1"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 4,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 19383,
+      "y": 64,
+      "z": 22052
+    }
+  },
+  
+  "PDM": {
+    "type": "train",
+    "name": "Premià de Mar",
+    "village": "premiademar",
+    "opening": "24/02/2024",
+    "lines": ["R1"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 20857,
+      "y": 64,
+      "z": 21161
+    }
+  },
+  
+  "ADM": {
+    "type": "train",
+    "name": "Arenys de Mar",
+    "village": "arenysdemar",
+    "opening": "24/02/2024",
+    "lines": ["R1"],
+    "operator": "RENFE",
+    "platforms": 3,
+    "tracks": 4,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 22538,
+      "y": 64,
+      "z": 20066
+    }
+  },
+  
+  "VDM": {
+    "type": "train",
+    "name": "Vilassar de Mar",
+    "village": "vilassardemar",
+    "opening": "13/03/2024",
+    "lines": ["R1"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 21141,
+      "y": 64,
+      "z": 21021
+    },
+    "images" : [
+      "https://i.imgur.com/9uDGGIc.png",
+      "https://i.imgur.com/HwHCOgL.png",
+      "https://i.imgur.com/tFr6QM5.png",
+      "https://i.imgur.com/jL1rgMD.png",
+      "https://i.imgur.com/zuxs32q.png",
+      "https://i.imgur.com/nl1Bahr.png",
+      "https://i.imgur.com/4Q3kUEU.png",
+      "https://i.imgur.com/kl9TfQq.png",
+      "https://i.imgur.com/gnNU9eT.png"
+    ]
+  },
+  
+  "CDM": {
+    "type": "train",
+    "name": "Canet de Mar",
+    "village": "canetdemar",
+    "opening": "24/02/2024",
+    "lines": ["R1"],
+    "operator": "RENFE",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 2,
+    "location": {
+      "world": "catalunya",
+      "x": 22821,
+      "y": 64,
+      "z": 19961
+    }
+  },
+  
+  "BCNPC-F": {
+    "type": "train",
+    "name": "Barcelona - Pl. Catalunya",
+    "village": "barcelona",
+    "other_operators": "RENFE",
+    "opening": "Setembre 2022",
+    "lines": ["S1", "R1", "R4"],
+    "operator": "FGC",
+    "platforms": 1,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 19206,
+      "y": 64,
+      "z": 22369
+    }
+  },
+  
+  "BCNPV": {
+    "type": "train",
+    "name": "Provença",
+    "village": "barcelona",
+    "opening": "Novembre 2023",
+    "lines": ["S1"],
+    "operator": "FGC",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    },
+    "images" : [
+      "https://i.imgur.com/YLesDqi.png",
+      "https://i.imgur.com/egfAwKY.png",
+      "https://i.imgur.com/o6JpdpC.png",
+      "https://i.imgur.com/YiYT6Cm.png",
+      "https://i.imgur.com/a1VyMSB.png",
+      "https://i.imgur.com/OcSYjtK.png",
+      "https://i.imgur.com/yj8wCTv.png"
+    ]
+  },
+  
+  "SCC": {
+    "type": "train",
+    "name": "Sant Cugat Centre",
+    "village": "santcugat",
+    "opening": "Novembre 2023",
+    "lines": ["S1"],
+    "operator": "FGC",
+    "platforms": 2,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    }
+  },
+  
+  "TRSR": {
+    "type": "train",
+    "name": "Terrassa - Rambla",
+    "village": "terrassa",
+    "opening": "Setembre 2022",
+    "lines": ["S1"],
+    "operator": "FGC",
+    "platforms": 1,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    }
+  },
+  
+  "TRSVU": {
+    "type": "train",
+    "name": "Vallparadís Universitat",
+    "village": "terrassa",
+    "opening": "Novembre 2022",
+    "lines": ["S1"],
+    "operator": "FGC",
+    "platforms": 1,
+    "tracks": 2,
+    "atm_fare": 1,
+    "location": {
+      "world": "catalunya",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    }
+  },
+  
+  "TRS-F": {
+    "type": "train",
+    "name": "Terrassa - Estació del Nord",
+    "village": "terrassa",
+    "opening": "Novembre 2023",
+    "lines": ["S1", "R4"],
+    "operator": "FGC",
+    "other_operators": "RENFE",
+    "platforms": 1,
+    "tracks": 2,
+    "atm_fare": 3,
+    "location": {
+      "world": "catalunya",
+      "x": 17969,
+      "y": 64,
+      "z": 20147
+    },
+    "images" : [
+      "https://i.imgur.com/SBAodzh.png",
+      "https://i.imgur.com/5qZzCfE.png",
+      "https://i.imgur.com/YmflKA8.png",
+      "https://i.imgur.com/mTXAXa5.png",
+      "https://i.imgur.com/FuP5GKw.png",
+      "https://i.imgur.com/gLi3jqV.png",
+      "https://i.imgur.com/FezDrBD.png",
+      "https://i.imgur.com/3GeK7Bb.png",
+      "https://i.imgur.com/3gG2x9q.png",
+      "https://i.imgur.com/ZXyjxOq.png",
+      "https://i.imgur.com/hdzd8q8.png"
+    ]
+  }
+}

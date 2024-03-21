@@ -1,0 +1,18 @@
+{
+    "name": "Premià de Mar",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 20854,
+        "y": 64,
+        "z": 21167
+    },
+    "type": "train",
+    "village": "premiademar",
+    "lines": ["R1"],
+    "atm_fare": 2,
+    "opening": "24/02/2024",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 2
+}

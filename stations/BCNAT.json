@@ -1,0 +1,31 @@
+{
+    "images": [
+        "https://i.imgur.com/a7QbhNp.png",
+        "https://i.imgur.com/NfmHTc3.png",
+        "https://i.imgur.com/zYtugec.png",
+        "https://i.imgur.com/vZrbu9l.png",
+        "https://i.imgur.com/zOu6xhA.png",
+        "https://i.imgur.com/rK2NM6A.png",
+        "https://i.imgur.com/Nw3SlVK.png",
+        "https://i.imgur.com/ZTQjCSd.png"
+    ],
+    "name": "Barcelona - Arc de Triomf",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 19433,
+        "y": 64,
+        "z": 22282
+    },
+    "type": "train",
+    "village": "barcelona",
+    "lines": [
+        "R1",
+        "R4"
+    ],
+    "atm_fare": 1,
+    "opening": "09/03/2024",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 2
+}

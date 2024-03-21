@@ -1,0 +1,22 @@
+{
+    "images": [
+        "https://i.imgur.com/VEnKEv4.png",
+        "https://i.imgur.com/cXO6erf.png",
+        "https://i.imgur.com/ixIcgp1.png",
+        "https://i.imgur.com/CAfLlrA.png"
+    ],
+    "name": "Molins de Rei",
+    "location": {
+        "world": "catalunya",
+        "zoom": 6,
+        "x": 18040,
+        "z": 22190
+    },
+    "type": "train",
+    "lines": ["R4"],
+    "atm_fare": 2,
+    "opening": "20/02/2024",
+    "operator": "RENFE",
+    "tracks": 2,
+    "platforms": 2
+}

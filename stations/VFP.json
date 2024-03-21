@@ -1,0 +1,17 @@
+{
+    "name": "Vilafranca del Penedès",
+    "location": {
+        "world": "catalunya",
+        "zoom": 5,
+        "x": 15369,
+        "z": 23005
+    },
+    "type": "train",
+    "village": "vilafrancadelpenedes",
+    "lines": ["R4"],
+    "atm_fare": 4,
+    "opening": "22/12/2023",
+    "operator": "RENFE",
+    "tracks": 4,
+    "platforms": 3
+}

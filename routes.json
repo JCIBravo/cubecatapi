@@ -1,0 +1,56 @@
+{
+  "S1": {
+    "operator": "FGC",
+    "color": "#F26F24",
+    "stations": [
+      {"id": "BCNPC-F", "name": "Barcelona - Plaça de Catalunya", "lines": ["S1", "R1", "R4"]},
+      {"id": "BCNPV", "name": "Provença", "lines": ["S1"]},
+      {"id": "SCC", "name": "Sant Cugat Centre", "lines": ["S1"]},
+      {"id": "TRSR", "name": "Terrassa - Rambla", "lines": ["S1"]},
+      {"id": "TRSVU", "name": "Vallparadís Universitat", "lines": ["S1"]},
+      {"id": "TRS-F", "name": "Terrassa - Estació del Nord", "lines": ["S1", "R4"]}
+    ]
+  },
+  
+  "R1": {
+    "operator": "rodalies",
+    "color": "#78B3E0",
+    "stations": [
+      {"id": "LH", "name": "L'Hospitalet de Llobregat", "lines": ["R1", "R4"]},
+      {"id": "BCN", "name": "Barcelona - Sants", "lines": ["R1", "R4"]},
+      {"id": "BCNPC-R", "name": "Barcelona - Plaça de Catalunya", "lines": ["S1", "R1", "R4"]},
+      {"id": "BCNAT", "name": "Barcelona - Arc de Triomf", "lines": ["R1", "R4"]},
+      {"id": "BCNEC", "name": "Barcelona - El Clot", "lines": ["R1"]},
+      {"id": "PDM", "name": "Premià de Mar", "lines": ["R1"]},
+      {"id": "VDM", "name": "Vilassar de Mar", "lines": ["R1"]},
+      {"id": "ADM", "name": "Arenys de Mar", "lines": ["R1"]},
+      {"id": "CDM", "name": "Canet de Mar", "lines": ["R1"]}
+    ]
+  },
+  
+  "R4": {
+    "operator": "rodalies",
+    "color": "#F9A03A",
+    "stations": [
+      {"id": "SVC", "name": "Sant Vicenç de Calders", "lines": ["R4", "RT2"]},
+      {"id": "VFP", "name": "Vilafranca del Penedès", "lines": ["R4"]},
+      {"id": "MTR", "name": "Martorell Central", "lines": ["R4"]},
+      {"id": "CTB", "name": "Castellbisbal", "lines": ["R4"]},
+      {"id": "MDR", "name": "Molins de Rei", "lines": ["R4"]},
+      {"id": "LH", "name": "L'Hospitalet de Llobregat", "lines": ["R1", "R4"]},
+      {"id": "BCN", "name": "Barcelona - Sants", "lines": ["R1", "R4"]},
+      {"id": "BCNPC-R", "name": "Barcelona - Plaça de Catalunya", "lines": ["S1", "R1", "R4"]},
+      {"id": "BCNAT", "name": "Barcelona - Arc de Triomf", "lines": ["R1", "R4"]},
+      {"id": "TRS-R", "name": "Terrassa - Estació del Nord", "lines": ["S1", "R4"]}
+    ]
+  },
+  
+  "RT2": {
+    "operator": "RENFE",
+    "color": "#E66BC2",
+    "stations": [
+      {"id": "SVC", "name": "Sant Vicenç de Calders", "lines": ["R4", "RT2"]},
+      {"id": "TRG", "name": "Tarragona"}
+    ]
+  }
+}
