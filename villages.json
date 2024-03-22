@@ -1,7 +1,7 @@
 {
   "AD": {
     "name": "Andorra (País)",
-    "major": ["Bloguer"],
+    "major": ["null"],
     "logo": "https://i.imgur.com/klbuK2X.png"
   },
   "ADALV": {
@@ -56,12 +56,34 @@
   },
   "ESBGA": {
     "name": "Berga",
-    "logo": "https://i.imgur.com/CMobMdd.png"
+    "logo": "https://i.imgur.com/CMobMdd.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 16277,
+      "z": 13817
+    }
   },
   "ESCBM": {
     "name": "Cabrera de Mar",
     "major": ["BonHome"],
-    "logo": "https://i.imgur.com/n7Czy7p.png"
+    "logo": "https://i.imgur.com/n7Czy7p.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 21188,
+      "z": 20657
+    }
+  },
+  "ESDON": {
+    "name": "Cardona",
+    "major": ["PowshockJr"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 14984,
+      "z": 16323
+    }
   },
   "ESNET": {
     "name": "Canet de Mar",
@@ -98,11 +120,23 @@
   },
   "ESCUB": {
     "name": "Cubelles",
-    "major": ["TheEdu380"]
+    "major": ["TheEdu380"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 14861,
+      "z": 24483
+    }
   },
   "ESPD3": {
     "name": "El Port de la Selva",
-    "major": ["JacintVerdaguer"]
+    "major": ["JacintVerdaguer"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 28373,
+      "z": 10961
+    }
   },
   "ESEPB": {
     "name": "El Prat de Llobregat",
@@ -118,19 +152,47 @@
   "FR": {
     "name": "França (País)",
     "logo": "https://i.imgur.com/R3NtwnK.png",
-    "major": ["Polar90"]
-  },
-  "ESGRO": {
-    "name": "Girona",
-    "logo": "https://i.imgur.com/12l4oGO.png"
-  },
-  "ESZFQ": {
-    "name": "Els Hostalets de Pierola",
-    "major": ["Aidemu"]
+    "major": ["null"]
   },
   "ESIGL": {
     "name": "Igualada",
-    "major": ["vicx"]
+    "major": ["vicx"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 14054,
+      "z": 19806
+    }
+  },
+  "ESPSU": {
+    "name": "La Pobla de Segur",
+    "major": ["Edurat16YT"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 8576,
+      "z": 11989
+    }
+  },
+  "ESGRO": {
+    "name": "Girona",
+    "logo": "https://i.imgur.com/12l4oGO.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 3,
+      "x": 24961,
+      "z": 15400
+    }
+  },
+  "ESZFQ": {
+    "name": "Els Hostalets de Pierola",
+    "major": ["Aidemu"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 15903,
+      "z": 20194
+    }
   },
   "ESLSL": {
     "name": "La Seu d'Urgell",
@@ -171,7 +233,13 @@
   },
   "ESOLI": {
     "name": "Oliana",
-    "major": ["LechugaAsesina"]
+    "major": ["LechugaAsesina"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 5,
+      "x": 11679,
+      "z": 14131
+    }
   },
   "ESPFL": {
     "name": "Palafrugell",
@@ -180,7 +248,13 @@
   },
   "ESSD6": {
     "name": "Palau-Saavedra",
-    "major": ["DobtMc"]
+    "major": ["DobtMc"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 27934,
+      "z": 11450
+    }
   },
   "ESPNL": {
     "name": "Peníscola"
@@ -245,6 +319,34 @@
       "z": 24119
     }
   },
+  "ESSNS": {
+    "name": "Santa Susanna",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 24375,
+      "z": 19172
+    }
+  },
+  "ESTC1": {
+    "name": "Tavascan",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 11138,
+      "z": 7267
+    }
+  },
+  "ESUTM": {
+    "name": "Ultramort",
+    "major": ["22Orion_"],
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 27196,
+      "z": 14460
+    }
+  },
   "ESTAR": {
     "name": "Tarragona",
     "public_transport": ["RENFE", "RT2"],
@@ -285,7 +387,13 @@
   "ESVD8": {
     "name": "Verdú",
     "major": ["Mursell10"],
-    "logo": "https://i.imgur.com/E0crrBi.png"
+    "logo": "https://i.imgur.com/E0crrBi.png",
+    "location": {
+      "world": "catalunya",
+      "zoom": 4,
+      "x": 9934,
+      "z": 19314
+    }
   },
   "ESVFR": {
     "name": "Vilafranca del Penedès",
