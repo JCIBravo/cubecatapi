@@ -19,7 +19,7 @@
     "name": "Arenys de Mar",
     "major": ["Switsurfer"],
     "logo": "https://i.ibb.co/bKdYfgm/Arenys-de-Mar.png",
-    "public_transport": ["RENFE", "R1"],
+    "public_transport": ["rodalies", "R1"],
     "location": {
       "world": "catalunya",
       "zoom": 3,
@@ -46,7 +46,7 @@
     "name": "Barcelona",
     "major": ["null"],
     "logo": "https://i.ibb.co/TPqPkYq/Barcelona.png",
-    "public_transport": ["RENFE", "R1", "R4", "FGC", "S1"],
+    "public_transport": ["rodalies", "R1", "R4", "FGC", "S1"],
     "location": {
       "world": "catalunya",
       "zoom": 1,
@@ -88,7 +88,7 @@
   "ESNET": {
     "name": "Canet de Mar",
     "major": ["LeBux"],
-    "public_transport": ["RENFE", "R1"],
+    "public_transport": ["rodalies", "R1"],
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -99,7 +99,7 @@
   "ESCLL": {
     "name": "Castellbisbal",
     "major": ["jantogu18", "mikizz"],
-    "public_transport": ["RENFE", "R4"],
+    "public_transport": ["rodalies", "R4"],
     "location": {
       "world": "catalunya",
       "zoom": 2,
@@ -267,7 +267,7 @@
   "ESZJP": {
     "name": "Premià de Mar",
     "major": ["Mikegs"],
-    "public_transport": ["RENFE", "R1"]
+    "public_transport": ["rodalies", "R1"]
   },
   "ESZKQ": {
     "name": "Roses",
@@ -367,7 +367,7 @@
     "name": "Terrassa",
     "major": ["iCruh"],
     "logo": "https://i.ibb.co/MhQ0gzX/Terrassa.png",
-    "public_transport": ["RENFE", "R4", "FGC", "S1"],
+    "public_transport": ["rodalies", "R4", "FGC", "S1"],
     "location": {
       "world": "catalunya",
       "zoom": 2,
@@ -404,7 +404,7 @@
     "name": "Vilafranca del Penedès",
     "logo": "https://i.ibb.co/cchmjm8/Vilafranca-del-Pened-s.png",
     "major": ["_Arch3r_"],
-    "public_transport": ["RENFE", "R4"],
+    "public_transport": ["rodalies", "R4"],
     "location": {
       "world": "catalunya",
       "zoom": 3,
