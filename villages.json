@@ -2,12 +2,12 @@
   "AD": {
     "name": "Andorra (País)",
     "major": ["null"],
-    "logo": "https://i.imgur.com/klbuK2X.png"
+    "logo": "https://i.ibb.co/rF5NSqK/Andorra.png"
   },
   "ADALV": {
     "name": "Andorra la Vella",
     "major": ["Bloguer"],
-    "logo": "https://www.dropbox.com/scl/fi/dbs5ksqowvtkkxpfr4fra/Andorra-la-Vella.png?rlkey=xqemzy96jwnk7shsvxexyn1i2&dl=0",
+    "logo": "https://i.ibb.co/MV0VK7c/Andorra-la-Vella.png",
     "location": {
       "world": "catalunya",
       "zoom": 3,
@@ -18,7 +18,7 @@
   "ESARN": {
     "name": "Arenys de Mar",
     "major": ["Switsurfer"],
-    "logo": "https://i.imgur.com/XznJW34.png",
+    "logo": "https://i.ibb.co/bKdYfgm/Arenys-de-Mar.png",
     "public_transport": ["RENFE", "R1"],
     "location": {
       "world": "catalunya",
@@ -30,7 +30,7 @@
   "ESNYS": {
     "name": "Arenys de Munt",
     "major": ["RakyCraft"],
-    "logo": "https://i.imgur.com/ywNFRHw.png",
+    "logo": "https://i.ibb.co/WGmBNxW/Arenys-de-Munt.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -45,7 +45,7 @@
   "ESBCN": {
     "name": "Barcelona",
     "major": ["null"],
-    "logo": "https://i.imgur.com/IUwOcEK.png",
+    "logo": "https://i.ibb.co/TPqPkYq/Barcelona.png",
     "public_transport": ["RENFE", "R1", "R4", "FGC", "S1"],
     "location": {
       "world": "catalunya",
@@ -56,7 +56,7 @@
   },
   "ESBGA": {
     "name": "Berga",
-    "logo": "https://i.imgur.com/CMobMdd.png",
+    "logo": "https://i.ibb.co/SrwMPMg/Berga.png",
     "location": {
       "world": "catalunya",
       "zoom": 3,
@@ -67,7 +67,7 @@
   "ESCBM": {
     "name": "Cabrera de Mar",
     "major": ["BonHome"],
-    "logo": "https://i.imgur.com/n7Czy7p.png",
+    "logo": "https://i.ibb.co/YXg2t92/Cabrera-de-Mar.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -110,7 +110,7 @@
   "ESCRV": {
     "name": "Cervera",
     "major": ["xiela_10"],
-    "logo": "https://i.imgur.com/ox4m2AC.png",
+    "logo": "https://i.ibb.co/6yg3rVd/Cervera.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -141,7 +141,7 @@
   "ESEPB": {
     "name": "El Prat de Llobregat",
     "major": ["Winry3122"],
-    "logo": "https://i.imgur.com/kn9oiWn.png",
+    "logo": "https://i.ibb.co/j6n3WB8/El-Prat.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -151,7 +151,7 @@
   },
   "FR": {
     "name": "França (País)",
-    "logo": "https://i.imgur.com/R3NtwnK.png",
+    "logo": "https://i.ibb.co/S34Xqgp/France.png",
     "major": ["null"]
   },
   "ESIGL": {
@@ -166,6 +166,7 @@
   },
   "ESPSU": {
     "name": "La Pobla de Segur",
+    "logo": "https://i.ibb.co/YtNBnWF/La-Pobla.png",
     "major": ["Edurat16YT"],
     "location": {
       "world": "catalunya",
@@ -176,7 +177,7 @@
   },
   "ESGRO": {
     "name": "Girona",
-    "logo": "https://i.imgur.com/12l4oGO.png",
+    "logo": "https://i.ibb.co/nC8Qvdj/Girona.png",
     "location": {
       "world": "catalunya",
       "zoom": 3,
@@ -197,7 +198,7 @@
   "ESLSL": {
     "name": "La Seu d'Urgell",
     "major": ["Andaxer60"],
-    "logo": "https://i.imgur.com/hTPOWKj.png",
+    "logo": "https://i.ibb.co/k32tk0k/La-Seu-d-Urgell.png",
     "location": {
       "world": "catalunya",
       "zoom": 2,
@@ -208,7 +209,7 @@
   "ESHDL": {
     "name": "L'Hospitalet de Llobregat",
     "major": ["erick"],
-    "logo": "https://i.imgur.com/JRU1BSy.png",
+    "logo": "https://i.ibb.co/7Y7391w/L-Hospitalet.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -221,9 +222,9 @@
     "major": ["VeridisQuo95"]
   },
   "FRNAR": {
-    "name": "Narbona",
+    "name": "Narbonne",
     "major": ["Polar90"],
-    "logo": "https://i.imgur.com/4AUwjs9.png",
+    "logo": "https://i.ibb.co/k67zWZP/Narbonne.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -244,7 +245,11 @@
   "ESPFL": {
     "name": "Palafrugell",
     "major": ["Yandrax"],
-    "logo": "https://i.imgur.com/8IWRiTt.png"
+    "logo": "https://i.ibb.co/0DRyW3C/Palafrugell.png"
+  },
+  "ESSBP": {
+    "name": "Sabadell",
+    "logo": "https://i.ibb.co/dKZ0h0k/Sabadell.png"
   },
   "ESSD6": {
     "name": "Palau-Saavedra",
@@ -270,7 +275,7 @@
   },
   "ESSMJ": {
     "name": "Santa Margarida i Els Monjos",
-    "logo": "https://i.imgur.com/r3XGWjF.png",
+    "logo": "https://i.ibb.co/6DHP7Qj/Santa-Margarida-i-els-Monjos.png",
     "major": ["_Arch3r_"]
   },
   "ESADQ": {
@@ -279,7 +284,7 @@
   },
   "ESSBL": {
     "name": "Sant Boi de Llobregat",
-    "logo": "https://i.imgur.com/ymbiZWa.png",
+    "logo": "https://i.ibb.co/685228J/Sant-Boi.png",
     "major": ["Vialgue"],
     "location": {
       "world": "catalunya",
@@ -291,7 +296,7 @@
   "ESCLI": {
     "name": "Sant Celoni",
     "major": ["Ludgie"],
-    "logo": "https://i.imgur.com/qgf1MN5.png",
+    "logo": "https://i.ibb.co/9p8GtK3/Sant-Celoni.png",
     "location": {
       "world": "catalunya",
       "zoom": 3,
@@ -311,7 +316,7 @@
   },
   "ESSIT": {
     "name": "Sitges",
-    "logo": "https://i.imgur.com/X9UDOc6.png",
+    "logo": "https://i.ibb.co/m0NZ8XK/Sitges.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -361,7 +366,7 @@
   "ESTQE": {
     "name": "Terrassa",
     "major": ["iCruh"],
-    "logo": "https://i.imgur.com/QMn9QnN.png",
+    "logo": "https://i.ibb.co/MhQ0gzX/Terrassa.png",
     "public_transport": ["RENFE", "R4", "FGC", "S1"],
     "location": {
       "world": "catalunya",
@@ -387,7 +392,7 @@
   "ESVD8": {
     "name": "Verdú",
     "major": ["Mursell10"],
-    "logo": "https://i.imgur.com/E0crrBi.png",
+    "logo": "https://i.ibb.co/r6vZRZs/Verd.png",
     "location": {
       "world": "catalunya",
       "zoom": 4,
@@ -397,7 +402,7 @@
   },
   "ESVFR": {
     "name": "Vilafranca del Penedès",
-    "logo": "https://i.imgur.com/sgI5GkZ.png",
+    "logo": "https://i.ibb.co/cchmjm8/Vilafranca-del-Pened-s.png",
     "major": ["_Arch3r_"],
     "public_transport": ["RENFE", "R4"],
     "location": {
